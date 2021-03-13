@@ -8,3 +8,7 @@ Ponemos nuestros urls a nuestras clases de zoom en el código, tambien horarios 
 ## Requerimientos:
 
 Tener la ultima versión de Chrome y la ultima version de chromedriver.
+
+### Nota: 
+
+Seguramente sea mucho más simple usando el módulo schedule.
