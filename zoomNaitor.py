@@ -27,7 +27,7 @@ hora = horaExacta.split(":")[0]
 while True:
     if dia == "Mon" and hora == "15" or dia == "Tue" and hora == "10" or dia == "Fri" and hora == "08": #Copiar y pegar para agregar materias. Cambiar los dias y horarios.
         iniciarClase(urlFisica)
-        time.sleep(10) #Espera 10 segundos y cierra la pestaña
+        time.sleep(6) #Espera 6 segundos y cierra la pestaña
         chrome.close()
         break
     else:
